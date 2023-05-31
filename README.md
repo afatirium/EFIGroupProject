@@ -1,1 +1,3 @@
-# EFIGroupProject
+Memebers:
+Allahverdili Minaya
+Ibadova Afet
